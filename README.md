@@ -17,9 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anki-0015&show_icons=true&locale=en&layout=compact" alt="anki-0015" /></p>
 
 
-
-
-
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
@@ -27,4 +24,4 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
-![Snake animation](https://github.com/Anki-0015/Anki-0015/blob/output/github-contribution-grid-snake.svg)
+
