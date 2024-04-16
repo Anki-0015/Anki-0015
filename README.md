@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Bansal</h1>
 <h3 align="center">A passionate developer from India</h3>
-<image align="right" alt="coding" width="400 src="https://miro.medium.com/v2/resize:fit:1400/0*nhFc1pNVP-o25Bvt.gif">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anki-0015&label=Profile%20views&color=0e75b6&style=flat" alt="anki-0015" /> </p>
 
