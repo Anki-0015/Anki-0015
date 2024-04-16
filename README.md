@@ -16,7 +16,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anki-0015&show_icons=true&locale=en&layout=compact" alt="anki-0015" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anki-0015&show_icons=true&locale=en" alt="anki-0015" /></p>
+
 
 
 
