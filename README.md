@@ -14,7 +14,6 @@
 
     
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anki-0015&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anki-0015&theme=dark&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
