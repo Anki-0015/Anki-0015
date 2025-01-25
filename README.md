@@ -3,7 +3,7 @@
                                                                             
 - 🌱 I’m currently learning **C++, Js, Java and MySQL**                                                               
 
-- 📫 How to reach me **bansalankit1575@gmail.com**             
+- 📫 How to reach me **bansalankit1575@gmail.com**                            
    
 
 ## 🌐 Socials: 
