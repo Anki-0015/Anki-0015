@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit </h1>                                                                                            
 
 - 📫 How to reach me **bansalankit1575@gmail.com**                            
-   
+    
 
 ## 🌐 Socials: 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-bansal-50828a199/) 
