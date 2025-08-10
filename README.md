@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit </h1>                                                                                             
-
-# 💫 About Me:
-- 📫 How to reach me **bansalankit1575@gmail.com**    
-
+<h1 align="center">Hi 👋, I'm Ankit </h1>                                                                                               
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankitbansal778) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-bansal-50828a199) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bansalankit1575@gmail.com) 
